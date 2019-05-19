@@ -65,19 +65,6 @@ namespace A1HarleenKaur
 
         private void CmbBeverages_SelectedIndexChanged(object sender, EventArgs e)
         {
-            //SelectItems();
-            //if (cmbBeverages.SelectedIndex == 0)
-            //    listBoxSelection.Items.Clear();
-            //else
-            //{
-            //    listBoxSelection.Items.Add(cmbBeverages.SelectedItem.ToString());
-
-            //    selection = cmbBeverages.SelectedItem.ToString();
-
-            //    strprice = selection.Split('$').Last();
-            //    Calculate(strprice);
-
-            //}
             if (cmbBeverages.SelectedIndex != 0)
             {
                 listBoxSelection.Items.Add(cmbBeverages.SelectedItem.ToString());
@@ -92,12 +79,9 @@ namespace A1HarleenKaur
 
         private void CmbAppetizers_SelectedIndexChanged(object sender, EventArgs e)
         {
-            //SelectItems();
+            
             if (cmbAppetizers.SelectedIndex != 0) { 
-                //listBoxSelection.Items.Clear();
-            //    listBoxSelection.Items.Remove(cmbAppetizers.Items);
-            //else
-            //{
+ 
                 listBoxSelection.Items.Add(cmbAppetizers.SelectedItem.ToString());
 
                 selection = cmbAppetizers.SelectedItem.ToString();
@@ -111,20 +95,7 @@ namespace A1HarleenKaur
 
         private void CmbMainCourses_SelectedIndexChanged(object sender, EventArgs e)
         {
-            //SelectItems();
-            //if (cmbMainCourses.SelectedIndex == 0)
-            //    listBoxSelection.Items.Clear();
-            //else
-            //{
-            //    listBoxSelection.Items.Add(cmbMainCourses.SelectedItem.ToString());
-
-            //    selection = cmbMainCourses.SelectedItem.ToString();
-
-            //    strprice = selection.Split('$').Last();
-
-            //    Calculate(strprice);
-            //}
-
+            
             if (cmbMainCourses.SelectedIndex != 0)
                
             {
@@ -140,20 +111,7 @@ namespace A1HarleenKaur
 
         private void CmbDesserts_SelectedIndexChanged(object sender, EventArgs e)
         {
-            //SelectItems();
-            //if (cmbDesserts.SelectedIndex == 0)
-            //    listBoxSelection.Items.Clear();
-            //else
-            //{
-            //    listBoxSelection.Items.Add(cmbDesserts.SelectedItem.ToString());
-
-            //    selection = cmbDesserts.SelectedItem.ToString();
-
-            //    strprice = selection.Split('$').Last();
-
-            //    Calculate(strprice);
-            //}
-
+            
             if (cmbDesserts.SelectedIndex != 0)
              
             {
@@ -213,29 +171,5 @@ namespace A1HarleenKaur
                 listBoxSelection.Items.Remove(listBoxSelection.SelectedItem);
             }
         }
-
-
-
-        //public void SelectItems()
-        //{
-        //    foreach (Control c in groupBox1.Controls)
-        //    {
-        //        if (c is ComboBox) { 
-        //            if ((c as ComboBox).SelectedIndex == 0)
-        //                listBoxSelection.Items.Clear();
-        //            else
-        //            {
-        //                listBoxSelection.Items.Add((c as ComboBox).SelectedItem.ToString());
-
-        //                selection = (c as ComboBox).SelectedItem.ToString();
-
-        //                strprice = selection.Split('$').Last();
-
-        //                Calculate(strprice);
-        //            }
-        //        }
-
-        //    }
-        //}
     }
 }
