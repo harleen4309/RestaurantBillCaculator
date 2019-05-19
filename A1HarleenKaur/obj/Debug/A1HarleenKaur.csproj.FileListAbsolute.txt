@@ -1,0 +1,10 @@
+C:\Users\hp\Desktop\C#\A1HarleenKaur\A1HarleenKaur\bin\Debug\A1HarleenKaur.exe.config
+C:\Users\hp\Desktop\C#\A1HarleenKaur\A1HarleenKaur\bin\Debug\A1HarleenKaur.exe
+C:\Users\hp\Desktop\C#\A1HarleenKaur\A1HarleenKaur\bin\Debug\A1HarleenKaur.pdb
+C:\Users\hp\Desktop\C#\A1HarleenKaur\A1HarleenKaur\obj\Debug\A1HarleenKaur.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\C#\A1HarleenKaur\A1HarleenKaur\obj\Debug\A1HarleenKaur.Properties.Resources.resources
+C:\Users\hp\Desktop\C#\A1HarleenKaur\A1HarleenKaur\obj\Debug\A1HarleenKaur.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\C#\A1HarleenKaur\A1HarleenKaur\obj\Debug\A1HarleenKaur.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C#\A1HarleenKaur\A1HarleenKaur\obj\Debug\A1HarleenKaur.exe
+C:\Users\hp\Desktop\C#\A1HarleenKaur\A1HarleenKaur\obj\Debug\A1HarleenKaur.pdb
+C:\Users\hp\Desktop\C#\A1HarleenKaur\A1HarleenKaur\obj\Debug\A1HarleenKaur.RestaurantBillForm.resources
